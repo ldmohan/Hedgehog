@@ -10,7 +10,7 @@ The prototype uses a M5StickC PLUS ESP32 development board that controls the sam
 Upload the [code ](https://github.com/ldmohan/Hedgehog/blob/main/M5cPlusRedLaserHedgehog.rar) to the M5StickC. Change your  mobile phone hotspot details in the code to send data to the phone. 
 
 ### Android code for the mobile App ###
-![Figure 1:](https://github.com/ldmohan/Hedgehog/blob/main/Drink_Spike_Server-2.rar)
+![Figure 2:](https://github.com/ldmohan/Hedgehog/blob/main/Drink_Spike_Server-2.rar)
 
-Upload [code ](https://github.com/ldmohan/Hedgehog/blob/main/M5cPlusRedLaserHedgehog.rar) and enable the mobile phone hotspot to connect the M5StickC
+Upload [Android code ](https://github.com/ldmohan/Hedgehog/blob/main/M5cPlusRedLaserHedgehog.rar) and enable the mobile phone hotspot to connect the M5StickC
 
