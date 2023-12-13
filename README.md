@@ -16,14 +16,14 @@ Upload [Android code ](https://github.com/ldmohan/Hedgehog/blob/main/Drink_Spike
 
 
 ### How to cite ###
-This tool is built for conducting experiments to validate our research solutions. If you are using the tool for your research, please do not forget to cite. Thanks!
-Zhigang Yin, Mohan Liyanage, Agustin Zuniga, Petteri Nurmi and Huber Flores. Hotmobile 2023.
+This tool is built for conducting experiments to validate our research solutions. If you are using the tool for your research, please do not forget to cite. Thanks!\
+Zhigang Yin, Mohan Liyanage, Agustin Zuniga, Petteri Nurmi and Huber Flores. Hotmobile 2023.\
 
 #### BibTex ####
-@inproceedings{yin2023hedgehog,
-  title={Hedgehog: Detecting Drink Spiking on Wearables},
-  author={Yin, Zhigang and Liyanage, Mohan and Zuniga, Agustin and Nurmi, Petteri and Flores, Huber},
-  booktitle={Proceedings of the 24th International Workshop on Mobile Computing Systems and Applications},
-  pages={61--67},
-  year={2023}
+@inproceedings{yin2023hedgehog,\
+  title={Hedgehog: Detecting Drink Spiking on Wearables},\
+  author={Yin, Zhigang and Liyanage, Mohan and Zuniga, Agustin and Nurmi, Petteri and Flores, Huber},\
+  booktitle={Proceedings of the 24th International Workshop on Mobile Computing Systems and Applications},\
+  pages={61--67},\
+  year={2023}\
 }
